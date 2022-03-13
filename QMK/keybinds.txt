@@ -1,0 +1,6 @@
+layer 0 - defaults
+
+layer 1 
+f21-22 = toastify vol control
+f23= obs replay buffer
+f24 = toggle mute discord and obs
