@@ -4,3 +4,5 @@ I graduated from CSUSM with a B.S in Computer Science. My interests are in backe
 🌎[My latest project: VR Earth Orbit Simulation](https://github.com/williamphong/CS490-VR-Orbit)
 
 💻[Checkout my website](https://waphong.com/)
+
+<!-- [![williamphong's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamphong)](https://github.com/williamphong/github-readme-stats) -->
