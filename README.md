@@ -6,3 +6,5 @@ I graduated from CSUSM with a B.S in Computer Science. My interests are in backe
 💻[Checkout my website](https://waphong.com/)
 
 <!-- [![williamphong's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamphong)](https://github.com/williamphong/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamphong)](https://github.com/williamphong/github-readme-stats) -->
