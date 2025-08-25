@@ -1,5 +1,5 @@
 # Hi, I'm William 👋
-I graduated from CSUSM with a B.S in Computer Science. My interests are in backend development as well as data analysis, but I am open to all opportunities!
+I am currently studying for my MSCS at SDSU and I graduated from CSUSM with a B.S in Computer Science. My interests are in backend development as well as data science, but I am open to all opportunities!
 
 📋 [My resume](/assets/Resume.pdf)
 
